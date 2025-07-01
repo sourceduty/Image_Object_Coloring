@@ -11,6 +11,8 @@
 This new development represents a groundbreaking approach in the field of computer vision, where the concept of instance segmentation is taken a step further by using monotone coloring techniques. In this novel method, objects within an image are selectively isolated from the background by assigning them a unique single hue, ensuring that each object is easily distinguishable from one another and from the surrounding environment. This approach deviates from traditional methods of segmentation that might incorporate gradients or variations in color to enhance depth or texture, instead focusing solely on the power of simple color association for object identification. By applying this monotone coloring approach, the system can efficiently highlight distinct objects while leaving the background untouched or entirely white, creating a sharp contrast that makes object recognition and analysis more streamlined and precise. The implications of this technique are vast, offering potential applications not only in object detection but also in fields such as robotics, augmented reality, and automated systems where precise object tracking and differentiation are crucial. This innovative method could pave the way for more intuitive and efficient visual processing tools, optimizing real-time analysis in a variety of industries.
 
 #
+![Experimental](https://github.com/user-attachments/assets/798a4594-0b73-4002-90a4-add74594bee5)
+#
 
 [Art Design](https://github.com/sourceduty/Art_Design)
 <br>
